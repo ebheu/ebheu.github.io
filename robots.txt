@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebheu.github.io/jJa/sitemap.jJa.gz
